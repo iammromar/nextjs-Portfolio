@@ -25,10 +25,9 @@ export default function Home() {
     
     <section className="grid overflow-x-hidden grid-cols-1 lg:grid-cols-[2fr_1fr] gap-4 mb-4">
         <div className='h-[30rem] rounded-3xl p-10 flex flex-col gap-16 bg-[url("/gradient-bg.jpg")] bg-cover'>
-            <h1 className='text-4xl font-semibold'>Hello, I'm a Product Designer with 7 years of experience.</h1>
+            <h1 className='text-4xl font-semibold'>Hello, I'm a Software ENgineer with 4 years of experience.</h1>
             <p className='flex-1'>
-            Tailwind lets you conditionally apply utility classes in different states using variant modifiers.
-            For example, use hover:bg-cyan-600 to only apply the bg-cyan-600 utility on hover.
+           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas massa nisi, rhoncus vitae tellus quis, lacinia aliquam eros. Donec eleifend interdum augue.
             </p>
             <div className='flex flex-col lg:flex-row items-center gap-4 justify-self-end'>
                 <button className='bg-black text-white font-medium py-3 px-12 rounded-full w-60 lg:w-auto'>Contact Me</button>
